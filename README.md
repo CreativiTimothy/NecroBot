@@ -43,8 +43,8 @@ Make sure you check out our [Wiki](https://github.com/NoxxDev/NecroBot/wiki) to 
  - [Snipe pokemon]
   - [Manual Locations](https://github.com/NoxxDev/NecroBot/wiki/Manual-Locations-Sniping-Guide)
   - [Automatic Locations](https://github.com/NoxxDev/NecroBot/wiki/Automatic-Locations-Sniping-Guide)
-  - [HumanWalk Snipping](https://github.com/NoxxDev/NecroBot/wiki/Human-walk-snipe-config)
-  - [MSniper Snipping](https://github.com/NoxxDev/NecroBot/wiki/MSniper-Manual-Snipping-Guide)
+  - [HumanWalk Sniping](https://github.com/NoxxDev/NecroBot/wiki/Human-walk-snipe-config)
+  - [MSniper Sniping](https://github.com/NoxxDev/NecroBot/wiki/MSniper-Manual-Snipping-Guide)
  - [Power-Up pokemon]
  - [Telegram Remote Control Support]
 
